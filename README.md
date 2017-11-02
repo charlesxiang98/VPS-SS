@@ -1,8 +1,8 @@
 # VPS-SS
-deploy VPS and Shadowsocks in come crucial point
+deploy VPS and Shadowsocks 
 
-Hello guys, I just want to talk about some important point that it might trouble you when you deploy your own SS on VPS. 
-Ok,I will give an example with Bandwagon.Of course, Vultr is also good.
+Hello guys, I just want to tell you how to deploy your own SS on VPS. 
+Ok,I will give an example with Bandwagon.Of course, Vultr is also good. Here are 9 points.
 1.You need to get an account on bandwagon or vultr, both of them are great. 
 2.choose an item and pay your money.
 3.click client area, input your email address and password, click services----my services, "kiwiVM Control Panel” under Management.
