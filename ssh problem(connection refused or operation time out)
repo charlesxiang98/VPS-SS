@@ -1,0 +1,6 @@
+enter terminal on Macbook，   ssh root@ 104.225.235.42    
+if it shows that “ connection refused“ or ”operation time out”,input" ssh root@104.225.235.42  -p  28162 " ;   
+if it shows that "warning:remote host identification has changed “ you need to open "finder"，click "command +shift +G”;
+input “user/xhb/.ssh/known_hosts  “  and find the line involve "104.225.235.42 "，delete “ ssh -rsa”.
+
+I have tried it,very useful. Don't forget to give me a star, Thanks a lot.
